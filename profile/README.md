@@ -1,3 +1,4 @@
+![Han (2)](https://github.com/HelloblueAI/.github/assets/81389644/0152dfb6-a186-4c97-919e-b27e35d2318f)
 # Welcome to HB-NNL Research Lab 🧬
 
 ## 🤖 About Us
@@ -9,7 +10,7 @@ Our mission at HB_NNL is to push the boundaries of human-machine communication, 
 ## 🧠 Focus Areas
 Our lab focuses on several strategic research domains:
 - **Communication Enhancement:** Crafting systems that intuit human intentions and facilitate seamless interaction between humans and machines. 🗣️👾
-- **Accessibility Improvements:** Ensuring technology serves everyone, adapting to diverse needs and expanding the reach of digital tools. 🌍🤲
+- **Accessibility Improvements:** Ensuring technology serves everyone, adapting to diverse needs and expanding the reach of digital tools. 🌍
 - **AI Advancements:** Advancing the frontiers of AI to create smarter, self-learning algorithms that evolve alongside human needs. 💡
 
 ## 🤝 Collaborations
