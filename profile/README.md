@@ -1,4 +1,4 @@
-# Welcome to HB_NNL Research Lab 🧬
+# Welcome to HB-NNL Research Lab 🧬
 
 ## 🤖 About Us
 Welcome to the official GitHub repository of HB_NNL Research Lab, where innovation meets application in the realm of Neural Network Languages (NNL). We are dedicated to enhancing human interaction with technology through intuitive, accessible, and efficient interfaces. Dive into our world of cutting-edge research and transformative tech!
