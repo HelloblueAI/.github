@@ -1,4 +1,4 @@
-![Han (2)](https://github.com/HelloblueAI/.github/assets/81389644/0152dfb6-a186-4c97-919e-b27e35d2318f)
+![HB_NNL](https://github.com/HelloblueAI/.github/assets/81389644/2119f449-e6ba-4c73-9f92-229efff9cb6d)
 
 ## 🤖 About Us
 Welcome to the official GitHub repository of HB-NNL Research Lab, where innovation meets application in the realm of Neural Network Languages (NNL). We are dedicated to enhancing human interaction with technology through intuitive, accessible, and efficient interfaces. Dive into our world of cutting-edge research and transformative tech!
