@@ -5,7 +5,7 @@
 Welcome to the official GitHub repository of HB-NNL Research Lab, where innovation meets application in the realm of Neural Network Languages (NNL). We are dedicated to enhancing human interaction with technology through intuitive, accessible, and efficient interfaces. Dive into our world of cutting-edge research and transformative tech!
 
 ## 🔬 Our Mission
-Our mission at HB_NNL is to push the boundaries of human-machine communication, using the power of NNL to solve complex problems and improve daily life. We aim to develop technologies that are not only innovative but also ethical and sustainable.
+Our mission at HB-NNL is to push the boundaries of human-machine communication, using the power of NNL to solve complex problems and improve daily life. We aim to develop technologies that are not only innovative but also ethical and sustainable.
 
 ## 🧠 Focus Areas
 Our lab focuses on several strategic research domains:
