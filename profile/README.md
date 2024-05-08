@@ -20,6 +20,7 @@ Our lab focuses on several strategic research domains:
 To achieve our mission, we are actively seeking partnerships with leading technology institutions and agencies. Our collaborations are designed to leverage collective expertise and resources to accelerate the development and deployment of user-friendly machine learning solutions.
 
 - **Top Tech Institutions:** By teaming up with renowned academic and research institutions, we aim to integrate the latest scientific insights into our technology, enhancing its capabilities and accessibility.
+- **Governmental Agencies:** Collaboration with policy makers and public sectors ensures our solutions are aligned with societal needs and regulations, paving the way for technology that contributes to a better world.
   
 
 ## 🌟 Impact Vision
