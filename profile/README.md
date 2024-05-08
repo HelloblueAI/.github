@@ -32,7 +32,7 @@ Our ultimate goal is to transform the landscape of technology usage:
   
 
 
-## 📬 Get Involved
+## 🤝 Get Involved
 Are you passionate about technology and its potential to change the world? Join us! Here's how you can get involved:
 - **Contribute:** Dive into our projects on GitHub, fork repositories, propose changes, or identify and report issues. 🔄🛠️
 - **Join Our Community:** Attend our events, participate in our discussions, and stay connected through our newsletter. 📅📢
