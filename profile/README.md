@@ -15,7 +15,7 @@ Our lab focuses on several strategic research domains:
 - **AI Advancements:** Advancing the frontiers of AI to create smarter, self-learning algorithms that evolve alongside human needs. 💡
 
 ## 🤝 Collaborations
-At HB_NNL, collaboration is the cornerstone of innovation. We partner with academic circles, governmental bodies, and industry leaders to magnify our impact:
+At HB-NNL, collaboration is the cornerstone of innovation. We partner with academic circles, governmental bodies, and industry leaders to magnify our impact:
 
 - **Academic Partnerships:** We join forces with universities and research institutions to fuel our research engines with fresh ideas and shared expertise. 🏫📘
 - **Authority Engagements:** Working hand-in-hand with government agencies, we strive to align our technological solutions with public policies, focusing on tech that tackles societal challenges. 🏛️🌐
