@@ -43,9 +43,6 @@ For collaboration opportunities, inquiries, or more information, please reach ou
 ## 🔗 License
 This project is licensed under the Apache License, Version 2.0. See the [LICENSE](https://github.com/HelloblueAI/.github/blob/232167f4fb8577f9457e3594c3262742c96cdc1d/LICENSE.md) file for more details.
 
-
-Thank you for exploring our repository. Let's innovate for a smarter, more connected future.
-
 ---
 
 HB-NNL Research Lab - Bridging the gap between humans and technology. 
