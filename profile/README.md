@@ -48,5 +48,5 @@ Thank you for exploring our repository. Let's innovate for a smarter, more conne
 
 ---
 
-HB-NNL Research Lab - Bridging the gap between humans and technology. 🌉
+HB-NNL Research Lab - Bridging the gap between humans and technology. 
 
