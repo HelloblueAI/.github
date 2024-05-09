@@ -23,7 +23,7 @@ To achieve our mission, we are actively seeking partnerships with leading techno
 - **Governmental Agencies:** Collaboration with policy makers and public sectors ensures our solutions are aligned with societal needs and regulations, paving the way for technology that contributes to a better world.
   
 
-## 🌟 Impact Vision
+## 🦥 Impact Vision
 
 Our ultimate goal is to transform the landscape of technology usage:
 
