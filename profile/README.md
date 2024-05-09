@@ -35,10 +35,10 @@ Our ultimate goal is to transform the landscape of technology usage:
 Are you passionate about technology and its potential to change the world? Join us! Here's how you can get involved:
 - **Contribute:** Dive into our projects on GitHub, fork repositories, propose changes, or identify and report issues. For collaboration opportunities, inquiries, or more information, please reach out to us.
 
-🛠️ ◌ Slack: Request an invitation link by sending us an email, along with your GitHub Portfolio to [info@helloblue.ai](mailto:info@hbnnl-research.org)
+🛠️ ◌ Slack: Request an invitation link by sending an email, along with your GitHub Portfolio to [info@helloblue.ai](mailto:info@hbnnl-research.org)
 
 ## 📩 Contact Us
-For collaboration opportunities, inquiries, or more information, please reach out to us at [info@helloblue.ai](mailto:info@hbnnl-research.org).
+For collaboration opportunities, inquiries, or more information, please reach out [info@helloblue.ai](mailto:info@hbnnl-research.org).
 
 ## 🔗 License
 This project is licensed under the Apache License, Version 2.0. See the [LICENSE](https://github.com/HelloblueAI/.github/blob/232167f4fb8577f9457e3594c3262742c96cdc1d/LICENSE.md) file for more details.
