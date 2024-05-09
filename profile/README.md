@@ -38,7 +38,6 @@ Are you passionate about technology and its potential to change the world? Join 
 
 Slack: [Join our Slack channel](https://join.slack.com/t/helloblueengi-spt9352/shared_invite/zt-2ii8pd39v-cpyPNL7YJRhXzMMk8I7p~w)
  🔄🛠️
-- **Join Our Community:** Attend our events, participate in our discussions, and stay connected through our newsletter. 📅📢
 
 ## 📩 Contact Us
 For collaboration opportunities, inquiries, or more information, please reach out to us at [info@helloblue.ai](mailto:info@hbnnl-research.org).
