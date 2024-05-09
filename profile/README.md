@@ -34,9 +34,7 @@ Our ultimate goal is to transform the landscape of technology usage:
 
 ## 🤝 Get Involved
 Are you passionate about technology and its potential to change the world? Join us! Here's how you can get involved:
-- **Contribute:** Dive into our projects on GitHub, fork repositories, propose changes, or identify and report issues. For collaboration opportunities, inquiries, or more information, please reach out to us at [info@helloblue.ai](mailto:info@helloblue.ai). 
-
-🔄🛠️ Slack: Request an invitation code, along with your GitHub Portfolio to [info@helloblue.ai](mailto:info@hbnnl-research.org)
+- **Contribute:** Dive into our projects on GitHub, fork repositories, propose changes, or identify and report issues. For collaboration opportunities, inquiries, or more information, please reach out to us.
 
 ## 📩 Contact Us
 For collaboration opportunities, inquiries, or more information, please reach out to us at [info@helloblue.ai](mailto:info@hbnnl-research.org).
