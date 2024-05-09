@@ -45,5 +45,5 @@ This project is licensed under the Apache License, Version 2.0. See the [LICENSE
 
 ---
 
-HB-NNL Research Lab - Bridging the gap between humans and technology. 
+HB-NNL Research Lab 
 
