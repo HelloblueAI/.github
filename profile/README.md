@@ -37,6 +37,9 @@ Are you passionate about technology and its potential to change the world? Join 
 
 🛠️🔃 Slack: Send an email for the invitation link, along with your GitHub Portfolio to [info@helloblue.ai](mailto:info@helloblue.ai)
 
+
+![Proof HTML](https://github.com/HelloblueAI/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+
 ## 📩 Contact Us
 For collaboration opportunities, inquiries, or more information, please reach out [info@helloblue.ai](mailto:info@helloblue.ai)
 
