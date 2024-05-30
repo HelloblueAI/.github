@@ -38,7 +38,6 @@ Are you passionate about technology and its potential to change the world? Join 
 🛠️🔃 Slack: Send an email for the invitation link, along with your GitHub Portfolio to [info@helloblue.ai](mailto:info@helloblue.ai)
 
 
-![Proof HTML](https://github.com/HelloblueAI/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
 ## 📩 Contact Us
 For collaboration opportunities, inquiries, or more information, please reach out [info@helloblue.ai](mailto:info@helloblue.ai)
@@ -46,3 +45,4 @@ For collaboration opportunities, inquiries, or more information, please reach ou
 ## License
 This project is licensed under the Apache License, Version 2.0. See the [LICENSE](https://github.com/HelloblueAI/.github/blob/232167f4fb8577f9457e3594c3262742c96cdc1d/LICENSE.md) file for more details. 
 
+![Proof HTML](https://github.com/HelloblueAI/demo-repository/actions/workflows/proof-html.yml/badge.svg)
