@@ -39,7 +39,7 @@ Are you passionate about technology and its potential to change the world? Join 
 
 
 
-## 📩 Contact Us
+## Contact Us
 For collaboration opportunities, inquiries, or more information, please reach out [info@helloblue.ai](mailto:info@helloblue.ai)
 
 ## License
