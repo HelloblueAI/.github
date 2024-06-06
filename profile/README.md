@@ -12,7 +12,7 @@ Our mission at HB-NLP is to push the boundaries of human-machine communication, 
 Our lab focuses on several strategic research domains:
 - **Communication Enhancement:** Crafting systems that intuit human intentions and facilitate seamless interaction between humans and machines. 🗣️👾
 - **Accessibility Improvements:** Ensuring technology serves everyone, adapting to diverse needs and expanding the reach of digital tools. 🌍
-- **AI Advancements:** Advancing the frontiers of AI to create smarter, self-learning algorithms that evolve alongside human needs. 💡
+- **AI Advancements:** Advancing the frontiers of AI to create smarter, self-learning algorithms that evolve alongside human needs. 
 
 
 ## 🌐 Strategic Collaborations
