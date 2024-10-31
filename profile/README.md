@@ -5,8 +5,6 @@
 
 Welcome to the GitHub repository of HB-NLP Research Lab, where we explore the frontiers of Natural Language Processing. Our mission is to make human-tech interactions more intuitive and accessible through research and practical tools. Dive in to see what we’re building and how we're working to make tech communication smarter and more efficient!
 
-## Our Mission
-Our mission at HB-NLP is to push the boundaries of human-machine communication, using the power of NLP to solve complex problems and improve daily life. We aim to develop technologies that are not only innovative but also ethical and sustainable.
 
 ## Focus Areas
 Our lab focuses on several strategic research domains:
