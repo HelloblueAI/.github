@@ -32,7 +32,8 @@ Our ultimate goal is to transform the landscape of technology usage:
   
 
 ##  Get Involved
-Are you passionate about technology and its potential to change the world? Join us! Here's how you can get involved:
+
+Do you geek out over tech’s potential to reshape the universe? Join our quest! Here’s how you can get in on the action:
 - **Contribute:** Dive into our projects on GitHub, fork repositories, propose changes, or identify and report issues. For collaboration opportunities, inquiries, or more information, please reach out to us.
 
 Slack: Send us an email for the invitation link.
