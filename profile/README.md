@@ -2,7 +2,7 @@
 ![Han](https://github.com/HelloblueAI/.github/assets/81389644/6768e6fb-47e0-4dab-88ab-da36d22f49b0)
 
 
-Welcome to the GitHub repository of HB-NLP Research Lab, where we explore the frontiers of Natural Language Processing. Our mission is to make human-tech interactions more intuitive and accessible through research and practical tools. Dive in to see what we’re building and how we're working to make tech communication smarter and more efficient!
+This is the GitHub repository of HB-NLP Research Lab, where we explore the frontiers of Natural Language Processing. Our mission is to make human-tech interactions more intuitive and accessible through research and practical tools. Dive in to see what we’re building and how we're working to make tech communication smarter and more efficient!
 
 
 ## Focus Areas
