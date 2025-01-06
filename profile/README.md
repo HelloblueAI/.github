@@ -33,8 +33,6 @@ Do you geek out over tech’s potential to reshape the world? Join our quest! He
 
 Slack: Send us an email for the invitation link.
 
-
-## Contact Us
 For collaboration opportunities, inquiries, or more information, please reach out [info@helloblue.ai](mailto:info@helloblue.ai)
 
 ## License
