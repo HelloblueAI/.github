@@ -3,11 +3,12 @@
 
 This is the GitHub repository of HB-NLP Research Lab, where we explore the frontiers of Natural Language Processing. Our mission is to make human-tech interactions more intuitive and accessible through research and practical tools. Dive in to see what we’re building and how we're working to make tech communication smarter and more efficient!
 
-## Focus Areas
 Our lab focuses on several strategic research domains:
 - **Communication Enhancement:** Crafting systems that intuit human intentions and facilitate seamless interaction between humans and machines. 
 - **Accessibility Improvements:** Ensuring technology serves everyone, adapting to diverse needs and expanding the reach of digital tools. 
-- **AI Advancements:** Advancing the frontiers of AI to create smarter, self-learning algorithms that evolve alongside human needs. 
+- **AI Advancements:** Advancing the frontiers of AI to create smarter, self-learning algorithms that evolve alongside human needs.
+
+  
 
 ##  Impact Vision
 
@@ -15,6 +16,7 @@ Our ultimate goal is to transform the landscape of technology usage:
 
 - **Advancing Technological Capabilities** By leveraging cutting-edge advancements in machine learning, we enhance computational efficiency, unlocking transformative opportunities for innovation across diverse sectors, including healthcare, finance, transportation, energy, manufacturing, and public safety.
 - **Empowering Users:** We focus on creating tools that are intuitive and efficient, enabling both individuals and organizations to leverage machine learning without needing deep technical expertise.
+
   
 ##  Strategic Collaborations
 
@@ -22,6 +24,7 @@ To achieve our mission, we are actively seeking partnerships with leading techno
 
 - **Top Tech Institutions:** By teaming up with renowned academic and research institutions, we aim to integrate the latest scientific insights into our technology, enhancing its capabilities and accessibility.
 - **Governmental Agencies:** Collaboration with policy makers and public sectors ensures our solutions are aligned with societal needs and regulations, paving the way for technology that contributes to a better world.
+
 
 ##  Get Involved
 
