@@ -14,7 +14,7 @@ Our lab focuses on several strategic research domains:
 
 Our ultimate goal is to transform the landscape of technology usage:
 
-- **Advancing Technological Capabilities** By leveraging cutting-edge advancements in machine learning, we enhance computational efficiency, unlocking transformative opportunities for innovation across diverse sectors, including healthcare, finance, transportation, energy, manufacturing, and public safety.
+- **Advancing Technological Capabilities:** By leveraging cutting-edge advancements in machine learning, we enhance computational efficiency, unlocking transformative opportunities for innovation across diverse sectors, including healthcare, finance, transportation, energy, manufacturing, and public safety.
 - **Empowering Users:** We focus on creating tools that are intuitive and efficient, enabling both individuals and organizations to leverage machine learning without needing deep technical expertise.
 
   
