@@ -29,7 +29,8 @@ To achieve our mission, we are actively seeking partnerships with leading techno
 ##  Get Involved
 
 Do you geek out over tech’s potential to reshape the world? Join our quest! Here’s how you can get in on the action:
-- **Contribute:** Dive into our projects on GitHub, fork repositories, propose changes, or identify and report issues. For collaboration opportunities, inquiries, or more information, please reach out to us.
+
+**Contribute:** Dive into our projects on GitHub, fork repositories, propose changes, or identify and report issues. For collaboration opportunities, inquiries, or more information, please reach out to us.
 
 Slack: Send us an email for the invitation link.
 
