@@ -37,4 +37,4 @@ Slack: Send us an email for the invitation link.
 For collaboration opportunities, inquiries, or more information, please reach out [info@helloblue.ai](mailto:info@helloblue.ai)
 
 ## License
-This laboratory operates under the Apache License 2.0. For complete details, please refer to the [LICENSE](https://github.com/HelloblueAI/.github/blob/52faae0ca6e05b473d01601974270b97f2e6d389/LICENSE.md) file.
+This laboratory operates under the Apache 2.0. [LICENSE](https://github.com/HelloblueAI/.github/blob/52faae0ca6e05b473d01601974270b97f2e6d389/LICENSE.md) file.
