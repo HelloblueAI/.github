@@ -1,5 +1,8 @@
+<div>
+ <img src="https://github.com/user-attachments/assets/3126aaf6-4e85-424b-973a-1ec525b62270" alt="HB-NLP Lab Logo" width="400" height="400" style="border-radius: 2px"/>
+</div>
 
-![Han (6)](https://github.com/user-attachments/assets/3126aaf6-4e85-424b-973a-1ec525b62270)
+# HB-NLP Research Lab
 
 Welcome to the HB-NLP Research Lab’s codebase hub! Here, we’re delving deep into the cutting-edge realms of Natural Language Processing, crafting innovative solutions to make human-tech interactions seamless and intuitive. Our mission is to merge groundbreaking research with real-world tools, pushing the boundaries of smarter, more efficient innovations. Dive into the code and see how we’re engineering the future of NLP!
 
