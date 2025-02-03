@@ -4,7 +4,7 @@
 
 ---
 
-This is the Helloblue Research Lab’s codebase hub! Where we push the boundaries of Natural Language Processing (NLP) through cutting-edge research and engineering. This is a space for those who believe AI should do more than process words—it should understand them.
+This is the Helloblue Research Lab’s codebase hub! Where we push the boundaries of Natural Language Processing (NLP) through cutting-edge research and engineering. This is a space for those who believe AI should do more than process words it should understand them.
 Our focus is on building adaptive, context-aware AI that enhances communication, improves accessibility, and evolves with human needs. We bridge the gap between theoretical breakthroughs and practical applications, ensuring that every innovation has real-world impact.
 
 Our lab focuses on several strategic research domains:
