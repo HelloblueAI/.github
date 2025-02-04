@@ -5,7 +5,7 @@
 ---
 
 
-Welcome to Helloblue Research Lab’s independent Open-source codebase hub! This is where we push the boundaries of Natural Language Processing (NLP) with cutting-edge research and engineering, innovating to meet the evolving needs in the realm of AI.
+Helloblue Research Lab maintains this Open-source repository as a central hub for advancing Natural Language Processing innovation. Through rigorous research and engineering, we develop cutting-edge solutions that address emerging challenges in artificial intelligence, making our contributions freely available to the global AI community.
 Our focus is on building adaptive, context-aware AI that enhances communication, improves accessibility, and evolves with human needs. We bridge the gap between theoretical breakthroughs and practical applications, ensuring that every innovation has real-world impact.
 
 Our lab focuses on several strategic research domains:
