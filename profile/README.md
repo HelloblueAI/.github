@@ -24,7 +24,6 @@ Through these repositories, contributors can:
 
 We especially welcome university students and recent graduates seeking hands-on experience, mentorship, research exposure, and opportunities to build a strong technical portfolio. Whether you are an experienced engineer or making your first open-source contribution, there is a place for you in the Helloblue community.
 
-## Strategic Research Domains
 
 Our lab focuses on several interconnected research areas:
 
