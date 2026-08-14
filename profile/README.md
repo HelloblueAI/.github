@@ -45,7 +45,7 @@ Our ultimate goal is to transform how people and organizations interact with tec
 - **Connecting Research with Reality:** We transform promising research concepts into deployable technologies that address practical challenges.
 - **Building an Open AI Community:** We believe meaningful innovation grows through shared knowledge, diverse perspectives, and transparent collaboration.
 
-## Strategic Collaborations
+## Collaborations
 
 To advance our mission, we seek partnerships with technology companies, academic institutions, research organizations, government agencies, and open-source communities.
 
