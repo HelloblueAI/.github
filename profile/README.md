@@ -49,8 +49,8 @@ Our ultimate goal is to transform how people and organizations interact with tec
 
 To advance our mission, we seek partnerships with technology companies, academic institutions, research organizations, government agencies, and open-source communities.
 
-- **Academic and Research Institutions:** We collaborate with universities and researchers to translate the latest scientific discoveries into practical and accessible technologies.
 - **Technology Organizations:** We work with technology leaders to access infrastructure, expertise, and platforms that can accelerate research and responsible deployment.
+- **Academic and Research Institutions:** We collaborate with universities and researchers to translate the latest scientific discoveries into practical and accessible technologies.
 - **Government and Public-Sector Agencies:** Collaboration with policymakers and public institutions helps ensure that our solutions address societal needs and align with applicable regulations.
 - **Open-Source Communities:** We welcome collaboration with maintainers, developers, technical communities, and independent researchers who share our commitment to open innovation.
 - **Students and Recent Graduates:** We aim to create pathways for emerging talent to gain applied experience, participate in meaningful research, and grow into the next generation of AI leaders.
