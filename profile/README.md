@@ -10,7 +10,7 @@ We build adaptive, context-aware AI that improves communication, expands accessi
 
 ## Open-Source Ecosystem
 
-Our open-source projects—including **Helloblue GL**, **Bleu.js**, and the **Bleu.js Reasoning Lab**—provide a collaborative environment where developers, researchers, university students, recent graduates, and independent contributors can explore ideas and help shape the future of AI.
+Our open-source projects including **Helloblue GK**, **Bleu.js**, and the **Bleu.js Reasoning Lab**—provide a collaborative environment where developers, researchers, university students, recent graduates, and independent contributors can explore ideas and help shape the future of AI.
 
 Through these repositories, contributors can:
 
