@@ -4,7 +4,11 @@
 
 ---
 
+# Helloblue Research Lab
+
 Helloblue Research Lab is an independent, open-source research and engineering hub dedicated to advancing Natural Language Processing (NLP), machine learning, AI reasoning, and human-centered intelligent systems.
+
+As a member of the **NVIDIA Inception Program**, Helloblue benefits from access to technical resources, industry expertise, and an innovation ecosystem designed to support organizations developing advanced AI technologies.
 
 We build adaptive, context-aware AI that improves communication, expands accessibility, and evolves alongside human needs. Our goal is to bridge the gap between theoretical breakthroughs and practical applications, ensuring that our research produces meaningful, real-world impact.
 
@@ -24,6 +28,7 @@ Through these repositories, contributors can:
 
 We especially welcome university students and recent graduates seeking hands-on experience, mentorship, research exposure, and opportunities to build a strong technical portfolio. Whether you are an experienced engineer or making your first open-source contribution, there is a place for you in the Helloblue community.
 
+## Research Areas
 
 Our lab focuses on several interconnected research areas:
 
@@ -49,6 +54,7 @@ Our ultimate goal is to transform how people and organizations interact with tec
 
 To advance our mission, we seek partnerships with technology companies, academic institutions, research organizations, government agencies, and open-source communities.
 
+- **NVIDIA Inception:** As a member of the NVIDIA Inception Program, we are part of a global ecosystem supporting organizations that are building innovative AI and data-driven technologies.
 - **Technology Organizations:** We work with technology leaders to access infrastructure, expertise, and platforms that can accelerate research and responsible deployment.
 - **Academic and Research Institutions:** We collaborate with universities and researchers to translate the latest scientific discoveries into practical and accessible technologies.
 - **Government and Public-Sector Agencies:** Collaboration with policymakers and public institutions helps ensure that our solutions address societal needs and align with applicable regulations.
