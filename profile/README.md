@@ -27,4 +27,4 @@ Through these repositories, contributors can:
 - Turn academic knowledge into practical, production-oriented solutions.
 
 ## License
-This laboratory operates under the MIT License. For more details, see the [LICENSE](https://github.com/HelloblueAI/.github/blob/52faae0ca6e05b473d01601974270b97f2e6d389/LICENSE.md)
+This laboratory operates under the MIT License. For more details, see the [LICENSE](https://github.com/HelloblueAI/.github/blob/main/LICENSE.md)
