@@ -40,7 +40,7 @@ Our lab focuses on several interconnected research areas:
 - **Applied AI:** Turning research into practical solutions for organizations, communities, and industries.
 - **Responsible Innovation:** Promoting security, transparency, privacy, fairness, and responsible development throughout the AI lifecycle.
 
-## Impact Vision
+### Impact Vision
 
 Our ultimate goal is to transform how people and organizations interact with technology.
 
@@ -50,7 +50,7 @@ Our ultimate goal is to transform how people and organizations interact with tec
 - **Connecting Research with Reality:** We transform promising research concepts into deployable technologies that address practical challenges.
 - **Building an AI Community:** We believe meaningful innovation grows through shared knowledge, diverse perspectives, and transparent collaboration.
 
-## Collaborations
+### Collaborations
 
 To advance our mission, we seek partnerships with technology companies, academic institutions, research organizations, government agencies, and open-source communities.
 
