@@ -4,7 +4,7 @@
 
 ---
 
-# Helloblue Research Lab
+### Helloblue Research Lab
 
 Helloblue Research Lab is an independent, open-source research and engineering hub dedicated to advancing Natural Language Processing (NLP), machine learning, AI reasoning, and human-centered intelligent systems.
 
@@ -12,7 +12,7 @@ As a member of the **NVIDIA Inception Program**, Helloblue benefits from access 
 
 We build adaptive, context-aware AI that improves communication, expands accessibility, and evolves alongside human needs. Our goal is to bridge the gap between theoretical breakthroughs and practical applications, ensuring that our research produces meaningful, real-world impact.
 
-## Open-Source Ecosystem
+### Open-Source Ecosystem
 
 Our open-source projects including **Helloblue GK**, **Bleu.js**, and the **Bleu.js Reasoning Lab** provide a collaborative environment where developers, researchers, university students, recent graduates, and independent contributors can explore ideas and help shape the future of AI.
 
@@ -28,7 +28,7 @@ Through these repositories, contributors can:
 
 We especially welcome university students and recent graduates seeking hands-on experience, mentorship, research exposure, and opportunities to build a strong technical portfolio. Whether you are an experienced engineer or making your first open-source contribution, there is a place for you in the Helloblue community.
 
-## Research Areas
+### Research Areas
 
 Our lab focuses on several interconnected research areas:
 
@@ -48,7 +48,7 @@ Our ultimate goal is to transform how people and organizations interact with tec
 - **Empowering Users:** We create intuitive and efficient tools that allow individuals and organizations to benefit from machine learning without requiring deep technical expertise.
 - **Expanding Opportunity:** Our open-source ecosystem gives students, graduates, researchers, and developers opportunities to learn, contribute, collaborate, and demonstrate their abilities.
 - **Connecting Research with Reality:** We transform promising research concepts into deployable technologies that address practical challenges.
-- **Building an Open AI Community:** We believe meaningful innovation grows through shared knowledge, diverse perspectives, and transparent collaboration.
+- **Building an AI Community:** We believe meaningful innovation grows through shared knowledge, diverse perspectives, and transparent collaboration.
 
 ## Collaborations
 
