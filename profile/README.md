@@ -1,5 +1,5 @@
 <div>
- <img src="https://github.com/user-attachments/assets/3126aaf6-4e85-424b-973a-1ec525b62270" alt="HB-NLP Lab Logo" width="400" height="400" style="border-radius: 2px"/>
+ <img src="https://github.com/user-attachments/assets/3126aaf6-4e85-424b-973a-1ec525b62270" alt="HB-NLP Lab Logo" width="200" height="200" style="border-radius: 2px"/>
 </div>
 
 ---
