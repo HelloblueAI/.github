@@ -8,7 +8,7 @@ We're an independent, open-source research and engineering hub dedicated to adva
 
 As a member of the **NVIDIA Inception Program**, Helloblue benefits from access to technical resources, industry expertise, and an innovation ecosystem designed to support organizations developing advanced AI technologies.
 
-<img width="501" height="217" alt="nvidia-inception-program-badge-rgb-for-screen" src="https://github.com/user-attachments/assets/73fcd70d-4460-44cd-851d-a6da2781bffa" />
+<img width="300" alt="NVIDIA Inception Program badge" src="https://github.com/user-attachments/assets/73fcd70d-4460-44cd-851d-a6da2781bffa" />
 
 
 We build adaptive, context-aware AI that improves communication, expands accessibility, and evolves alongside human needs. Our goal is to bridge the gap between theoretical breakthroughs and practical applications, ensuring that our research produces meaningful, real-world impact.
