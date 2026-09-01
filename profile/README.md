@@ -6,7 +6,7 @@
 
 ### Helloblue Research Lab
 
-Helloblue Research Lab is an independent, open-source research and engineering hub dedicated to advancing Natural Language Processing (NLP), machine learning, AI reasoning, and human-centered intelligent systems.
+We're an independent, open-source research and engineering hub dedicated to advancing Natural Language Processing (NLP), machine learning, AI reasoning, and human-centered intelligent systems.
 
 As a member of the **NVIDIA Inception Program**, Helloblue benefits from access to technical resources, industry expertise, and an innovation ecosystem designed to support organizations developing advanced AI technologies.
 
