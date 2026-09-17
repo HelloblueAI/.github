@@ -1,5 +1,6 @@
 <div>
- <img src="https://github.com/user-attachments/assets/3126aaf6-4e85-424b-973a-1ec525b62270" alt="HB-NLP Lab Logo" width="200" height="200" style="border-radius: 2px"/>
+ <img <img width="5625" height="1969" alt="Helloblue Open Research Banner" src="https://github.com/user-attachments/assets/0b91dfb5-4e0a-4691-a385-4c410bc6c098" />
+
 </div>
 
 ---
