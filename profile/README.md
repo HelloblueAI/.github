@@ -4,7 +4,7 @@
 </div>
 
 ---
-### Helloblue Research Lab
+### Research Lab
 
 We're an independent, open-source research and engineering hub dedicated to advancing Natural Language Processing (NLP), machine learning, AI reasoning, and human-centered intelligent systems.
 
