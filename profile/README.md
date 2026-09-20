@@ -1,5 +1,5 @@
 <div>
- <img <img width="5625" height="1969" alt="Helloblue Open Research Banner (2)" src="https://github.com/user-attachments/assets/c1ff7ef2-0ed9-4788-9bc0-a51822d99ec8" />
+ <img <img width="5625" height="1969" alt="Helloblue Open Research Banner" src="https://github.com/user-attachments/assets/231c89d8-6f8a-4260-94f8-4547ac4766f0" />
 
 </div>
 
