@@ -17,7 +17,7 @@ We build adaptive, context-aware AI that improves communication, expands accessi
 
 ### Open-Source Ecosystem
 
-Our open-source projects including **Helloblue GK**, **B01-NUna lora trainer**, **Bleu.js**, and the **Bleu.js Reasoning Lab** provide a collaborative environment where developers, researchers, university students, recent graduates, and independent contributors can explore ideas and help shape the future of AI.
+Our open-source projects including **Helloblue GK**, **B01-NUna lora trainer**, **Bleu.js**, and the **Bleu.js Reasoning Lab** serve as educational and research resources across AI, model training, reasoning, and aerospace engineering. This work is part of our long-term vision for a Helloblue Institute where students learn through hands-on research and engineering.
 
 Through these repositories, contributors can:
 
