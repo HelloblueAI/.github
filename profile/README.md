@@ -4,6 +4,9 @@
 </div>
 
 ---
+
+**[UW Student Projects: Start Here](UW-STUDENT-PROJECTS.md).** Ten ready-to-claim issues across the public repositories. GPU tasks stay closed until access is confirmed.
+
 ### Research Lab
 
 We're an open-source research and engineering hub dedicated to advancing natural language processing (NLP), machine learning, AI reasoning, and human-centered intelligent systems.
