@@ -4,16 +4,16 @@ Welcome, University of Washington Bothell capstone students (Winter 2027). This 
 
 ## What the program is
 
-HelloblueAI maintains four public, MIT-licensed repositories. During the capstone you claim one scoped GitHub issue (alone or as a pair), do the work in your own fork, and open a pull request that a maintainer reviews. Everything listed as **ready** below runs on a normal laptop: no private credentials, no production access, no paid services, no API keys, and no GPU.
+HelloblueAI maintains four public repositories. Bleu.js, the Bleu.js Reasoning Lab, and the B01-NUna LoRA trainer are MIT-licensed. HelloblueGK is Apache 2.0. During the capstone you claim one scoped GitHub issue (alone or as a pair), do the work in your own fork, and open a pull request that a maintainer reviews. Every task in the **Ready now** table can be done on a normal laptop: no private credentials, no billing access, no production access, no paid services, no API keys, and no GPU. NUna [#10](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/10) and [#11](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/11) are separate. They need an NVIDIA GPU with at least 8 GB of VRAM, and they stay closed until students have that access.
 
 ## The four projects
 
 | Project | What it is | Prerequisites |
 | --- | --- | --- |
-| [Bleu.js](https://github.com/HelloblueAI/Bleu.js) | Python library with local, offline examples | Python 3, pip, venv, pytest, Markdown |
-| [Bleu.js Reasoning Lab](https://github.com/HelloblueAI/bleujs-reasoning-lab) | TypeScript lab that benchmarks reasoning and retrieval against fixed, committed datasets | Node.js >= 22.12, pnpm, TypeScript |
-| [B01-NUna LoRA trainer](https://github.com/HelloblueAI/b01-nuna-lora-trainer) | Python LoRA/QLoRA fine-tuning trainer with an eval gate; tests, dry runs, and probe checks run on CPU | Python >= 3.10, pip, pytest, JSON |
-| [HelloblueGK](https://github.com/HelloblueAI/HelloblueGK) | .NET 9 rocket-engine performance platform with an ideal-rocket nozzle solver validated against published engine data (not flight-certified software) | .NET 9 SDK, C#, xUnit; basic compressible-flow knowledge helps for the solver tasks |
+| [Bleu.js](https://github.com/HelloblueAI/Bleu.js) | MIT. Python library with local, offline examples | Python 3, pip, venv, pytest, Markdown |
+| [Bleu.js Reasoning Lab](https://github.com/HelloblueAI/bleujs-reasoning-lab) | MIT. TypeScript lab that benchmarks reasoning and retrieval against fixed, committed datasets | Node.js >= 22.12, pnpm, TypeScript |
+| [B01-NUna LoRA trainer](https://github.com/HelloblueAI/b01-nuna-lora-trainer) | MIT. Python LoRA/QLoRA fine-tuning trainer with an eval gate; tests, dry runs, and probe checks run on CPU. This is the open-source workshop, not production NUna | Python >= 3.10, pip, pytest, JSON |
+| [HelloblueGK](https://github.com/HelloblueAI/HelloblueGK) | Apache 2.0. .NET 9 simulation code. Student tasks compare selected nozzle-solver results with published reference values. That is not engine validation, flight certification, or control of an engine | .NET 9 SDK, C#, xUnit; basic compressible-flow knowledge helps for the solver tasks |
 
 ## Set up each repository
 
@@ -52,7 +52,7 @@ Skip the CUDA `torch` install line in the README. You only need it for GPU train
 git clone https://github.com/<you>/HelloblueGK.git && cd HelloblueGK
 dotnet restore HelloblueGK.sln
 dotnet build HelloblueGK.sln
-dotnet test Tests/HelloblueGK.Tests.csproj --filter "FullyQualifiedName~IdealRocketNozzleTests"   # nozzle validation
+dotnet test Tests/HelloblueGK.Tests.csproj --filter "FullyQualifiedName~IdealRocketNozzleTests"   # selected nozzle comparisons
 ```
 For the nozzle solver, see `Physics/IdealRocketNozzle.cs`, `Physics/EngineOperatingPoint.cs`, `Physics/NozzleFlowSolver.cs`, and `Docs/Technical/VALIDATION_AND_BENCHMARKS.md`.
 
@@ -74,18 +74,19 @@ Every ready issue can be done by one student. Issues marked **pair** in the tabl
 
 ## GPU tasks are not open yet
 
-Some NUna tasks need a real GPU training or evaluation run. They stay **conditional** until UW confirms students have access to an **NVIDIA GPU with at least 8 GB of VRAM**. Don't claim them until a maintainer posts on the issue that they are open. On GitHub they carry the `needs-gpu` label. Don't make up GPU results or error messages.
+NUna [#10](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/10) and [#11](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/11) are the only GPU tasks on this page. They need an NVIDIA GPU with at least 8 GB of VRAM. They stay closed until students have that access. Don't claim them until a maintainer posts on the issue that they are open. On GitHub they carry the `needs-gpu` label. Don't make up GPU results or error messages.
+
+NUna [#6](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/6) is not a GPU task. It is waiting on a reply from a contributor who already offered to take it. It becomes available only if a maintainer releases it. Do not claim it before that.
 
 ## Areas that are off-limits
 
-Stay out of authentication/SSO, billing, API keys and secrets, rate limiting, HelloblueGK `Certification/`, and any HelloblueGK engine-safety or control code (valve shutdown, MPC control, sensor checks). Never commit credentials or secret values.
+Stay out of authentication and SSO, billing, API keys and secrets, rate limiting, HelloblueGK `Certification/`, and any HelloblueGK engine-safety or control code (valve shutdown, control loops, sensor checks). Never commit credentials, payment details, or secret values. Do not change code that starts, stops, or commands an engine.
 
 ## Ready now
 
 | Repo | Issue | Size |
 | --- | --- | --- |
 | Bleu.js | [#367 test: smoke test that runs examples/quick_start.py offline](https://github.com/HelloblueAI/Bleu.js/issues/367) | Individual |
-| Bleu.js | [#368 docs: align ISSUE_LABELING_GUIDE.md with real labels](https://github.com/HelloblueAI/Bleu.js/issues/368) | Individual |
 | Bleu.js | [#237 ci: markdown link check for docs and README](https://github.com/HelloblueAI/Bleu.js/issues/237) | Individual or pair |
 | Reasoning Lab | [#93 test: committed model result files are internally consistent](https://github.com/HelloblueAI/bleujs-reasoning-lab/issues/93) | Individual |
 | Reasoning Lab | [#94 eval: 95% confidence intervals for per-tier scores](https://github.com/HelloblueAI/bleujs-reasoning-lab/issues/94) | Pair |
@@ -97,12 +98,12 @@ Stay out of authentication/SSO, billing, API keys and secrets, rate limiting, He
 | HelloblueGK | [#88 docs: XML doc comments on one non-certification controller](https://github.com/HelloblueAI/HelloblueGK/issues/88) | Individual |
 | HelloblueGK | [#85 docs: local Swagger UI screenshot](https://github.com/HelloblueAI/HelloblueGK/issues/85) | Individual |
 | HelloblueGK | [#311 test: check IdealRocketNozzle against γ = 1.4 isentropic flow table values](https://github.com/HelloblueAI/HelloblueGK/issues/311) | Individual |
-| HelloblueGK | [#312 docs: worked validation report vs a textbook example problem](https://github.com/HelloblueAI/HelloblueGK/issues/312) | Pair |
+| HelloblueGK | [#312 docs: compare one textbook example with the nozzle solver](https://github.com/HelloblueAI/HelloblueGK/issues/312) | Pair |
 | HelloblueGK | [#313 test: convergence study for the ExitMachNumber bisection](https://github.com/HelloblueAI/HelloblueGK/issues/313) | Individual |
 | HelloblueGK | [#314 docs: inputs and outputs reference for the nozzle solver](https://github.com/HelloblueAI/HelloblueGK/issues/314) | Individual |
 | HelloblueGK | [#315 example: offline console example for one nozzle operating point](https://github.com/HelloblueAI/HelloblueGK/issues/315) | Individual or pair |
 
-**Conditional (do not claim yet):** NUna [#10](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/10) and [#11](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/11) need an NVIDIA GPU with at least 8 GB of VRAM. NUna [#6](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/6) has an earlier claim and opens only if a maintainer releases it.
+**Not ready to claim:** NUna [#10](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/10) and [#11](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/11) need an NVIDIA GPU with at least 8 GB of VRAM and stay closed until students have one. NUna [#6](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/6) is a laptop task on hold. It is waiting on a previous contributor, and a maintainer has to release it before anyone else can claim it.
 
 ## Where to ask questions
 
