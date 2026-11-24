@@ -4,7 +4,7 @@ Welcome, University of Washington Bothell capstone students (Winter 2027). This 
 
 ## What the program is
 
-HelloblueAI maintains four public repositories. Bleu.js, the Bleu.js Reasoning Lab, and the B01-NUna LoRA trainer are MIT-licensed. HelloblueGK is Apache 2.0. During the capstone you claim one scoped GitHub issue (alone or as a pair), do the work in your own fork, and open a pull request that a maintainer reviews. Every task in the **Ready now** tables can be done on a normal laptop: no private credentials, no billing access, no production access, no paid services, no API keys, and no GPU. NUna [#10](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/10) and [#11](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/11) are separate. They need an NVIDIA GPU with at least 8 GB of VRAM. They are open on GitHub so the work is tracked, but they are not available to claim until that GPU access is confirmed.
+HelloblueAI maintains four public repositories. Bleu.js, the Bleu.js Reasoning Lab, and the B01-NUna LoRA trainer are MIT-licensed. HelloblueGK is Apache 2.0. During the capstone you claim one scoped GitHub issue (alone or as a pair), do the work in your own fork, and open a pull request that a maintainer reviews. Every task in the **Ready now** tables can be done on a normal laptop: no private credentials, no billing access, no production access, no paid services, no API keys, and no GPU. NUna [#10](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/10) and [#11](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/11) are separate. They need an NVIDIA GPU with at least 8 GB of VRAM. UW Bothell has confirmed shared NVIDIA GPUs with at least 8 GB VRAM for the student projects. Student access and training scheduling will be coordinated with UW faculty.
 
 Some issues are reserved for UW students and the rest are open to everyone. UW students can claim either kind. See **Ready now** below.
 
@@ -76,9 +76,9 @@ You can hold one issue at a time. Once your PR is merged, you can claim another.
 
 Every ready issue can be done by one person. Issues marked **Pair** in the tables are large enough for two people, and **Individual or pair** issues work either way. If you work as a pair, open one PR with both names in the description, and split the work visibly (for example, one person writes the tests and the other writes the docs).
 
-## GPU tasks are not open yet
+## GPU tasks
 
-NUna [#10](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/10) and [#11](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/11) are the only GPU tasks on this page. They need an NVIDIA GPU with at least 8 GB of VRAM. They are open on GitHub (labeled `needs-gpu`), but they are **not available to claim yet: we are waiting on confirmation of NVIDIA GPU access with at least 8 GB VRAM**. Don't claim or start them until a maintainer comments on the issue that they are open. Don't make up GPU results or error messages.
+NUna [#10](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/10) and [#11](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/11) are the only GPU tasks on this page. They need an NVIDIA GPU with at least 8 GB of VRAM. UW Bothell has confirmed shared NVIDIA GPUs with at least 8 GB VRAM for the student projects. Student access and training scheduling will be coordinated with UW faculty. Claim them the same way as the other issues, and wait until a maintainer assigns you before you start. Don't make up GPU results or error messages.
 
 ## Areas that are off-limits
 
@@ -119,7 +119,7 @@ Anyone can claim these, including UW students. Comment on the issue that you'd l
 
 Bleu.js has no open issues right now. Its earlier student issues (#367 and #237) are closed. The setup steps above still work if a new Bleu.js issue is added later.
 
-**Not available to claim yet:** NUna [#10](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/10) and [#11](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/11) are open on GitHub, but they are waiting on confirmation of NVIDIA GPU access with at least 8 GB VRAM. A maintainer will comment on each issue when it opens.
+**GPU tasks:** NUna [#10](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/10) and [#11](https://github.com/HelloblueAI/b01-nuna-lora-trainer/issues/11) need an NVIDIA GPU with at least 8 GB of VRAM. UW Bothell has confirmed shared NVIDIA GPUs with at least 8 GB VRAM for the student projects. Student access and training scheduling will be coordinated with UW faculty.
 
 ## Where to ask questions
 
